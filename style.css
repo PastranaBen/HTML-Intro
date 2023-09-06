@@ -1,0 +1,11 @@
+h2 {
+    background-color: blueviolet;
+    color:crimson;
+}
+h3 {
+    color: chartreuse;
+}
+table, th, td {
+    border:5px solid black;
+    color: forestgreen;
+  }
